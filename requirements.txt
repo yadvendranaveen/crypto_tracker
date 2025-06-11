@@ -1,0 +1,9 @@
+# requirements.txt
+
+streamlit
+pandas
+requests
+pytrends
+prophet
+plotly
+scikit-learn
